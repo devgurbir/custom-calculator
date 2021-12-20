@@ -1,2 +1,2 @@
-# custom-calculator
+# redux-assignment
 Created with CodeSandbox
